@@ -1,2 +1,2 @@
 My first readme
-updated session
+updated sessions
